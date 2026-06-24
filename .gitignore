@@ -1,0 +1,15 @@
+Dados/dados_tratados.csv
+
+Dados/datatran*.csv
+
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+.streamlit/secrets.toml
+
+.DS_Store
+Thumbs.db
